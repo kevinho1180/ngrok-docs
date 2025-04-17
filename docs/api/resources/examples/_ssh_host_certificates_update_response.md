@@ -1,20 +1,20 @@
 <!-- Code generated for API Clients. DO NOT EDIT. -->
-
 #### Example Response
-
 ```json
 {
-	"certificate": "ecdsa-sha2-nistp256-cert-v01@openssh.com AAAAKGVjZHNhLXNoYTItbmlzdHAyNTYtY2VydC12MDFAb3BlbnNzaC5jb20AAAAgJHdspCJ+rJ5Hz26t3RhDu931baCj5xkOXTVOdaLElNkAAAAIbmlzdHAyNTYAAABBBI3oSgxrOEJ+tIJ/n6VYtxQIFvynqlOHpfOAJ4x4OfmMYDkbf8dr6RAuUSf+ZC2HMCujta7EjZ9t+6v08Ue+CgkAAAAAAAAAAAAAAAIAAAAhc2hjcnRfMnVxa2lnQ2RaRlZVcko3dmpCQ3h1N1p2UXpDAAAAJAAAABNpbmNvbnNocmV2ZWFibGUuY29tAAAACTEwLjIuNDIuOQAAAABn49HEAAAAAGhaeMQAAAAAAAAAAAAAAAAAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIHbfpCwzJHpKaLlbPdK8umURzr+c363vg+lm3yIxf6gJAAAAUwAAAAtzc2gtZWQyNTUxOQAAAEAOAvs54T9NsXRBYlokZfs/m6BIuu3VDL7yVhRxElvKu/6DYG9Vyd1HwRnJ9zBwpP7MTD9+1kgCu2xtiTL9pygI shcrt_2uqkigCdZFVUrJ7vjBCxu7ZvQzC",
-	"created_at": "2025-03-26T10:07:00Z",
-	"description": "personal server",
-	"id": "shcrt_2uqkigCdZFVUrJ7vjBCxu7ZvQzC",
-	"key_type": "ecdsa",
-	"metadata": "{\"region\": \"us-west-2\"}",
-	"principals": ["inconshreveable.com", "10.2.42.9"],
-	"public_key": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBI3oSgxrOEJ+tIJ/n6VYtxQIFvynqlOHpfOAJ4x4OfmMYDkbf8dr6RAuUSf+ZC2HMCujta7EjZ9t+6v08Ue+Cgk= inconshreveable.com",
-	"ssh_certificate_authority_id": "sshca_2uqkijCkgBmeYiuMxa6e0eGIlWp",
-	"uri": "https://api.ngrok.com/ssh_host_certificates/shcrt_2uqkigCdZFVUrJ7vjBCxu7ZvQzC",
-	"valid_after": "2025-03-26T10:07:00Z",
-	"valid_until": "2025-06-24T10:07:00Z"
+  "certificate": "ecdsa-sha2-nistp256-cert-v01@openssh.com AAAAKGVjZHNhLXNoYTItbmlzdHAyNTYtY2VydC12MDFAb3BlbnNzaC5jb20AAAAg6prAZHHUEEzO3VH9Qwqnm+l9GNgBsXJbQZZNkW48aeUAAAAIbmlzdHAyNTYAAABBBI3oSgxrOEJ+tIJ/n6VYtxQIFvynqlOHpfOAJ4x4OfmMYDkbf8dr6RAuUSf+ZC2HMCujta7EjZ9t+6v08Ue+CgkAAAAAAAAAAAAAAAIAAAAhc2hjcnRfMnZxdHhxVUhpcW01S3E5N1RMZG1Pc0FnYzRnAAAAJAAAABNpbmNvbnNocmV2ZWFibGUuY29tAAAACTEwLjIuNDIuOQAAAABoANPIAAAAAGh3esgAAAAAAAAAAAAAAAAAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIGAre9uMAzotKNA6brouS3S5ZRGx4T4A7KR8Jup3iWLFAAAAUwAAAAtzc2gtZWQyNTUxOQAAAEAbSDBcBg6ykarZCWyqjPEMCR8FlmnIXhn+vni1xORSFTUD1n9zSp1JSDuVXgkH+KK+NkLX+vkmCe1BEXmUHDcG shcrt_2vqtxqUHiqm5Kq97TLdmOsAgc4g",
+  "created_at": "2025-04-17T10:11:20Z",
+  "description": "personal server",
+  "id": "shcrt_2vqtxqUHiqm5Kq97TLdmOsAgc4g",
+  "key_type": "ecdsa",
+  "metadata": "{\"region\": \"us-west-2\"}",
+  "principals": [
+    "inconshreveable.com",
+    "10.2.42.9"
+  ],
+  "public_key": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBI3oSgxrOEJ+tIJ/n6VYtxQIFvynqlOHpfOAJ4x4OfmMYDkbf8dr6RAuUSf+ZC2HMCujta7EjZ9t+6v08Ue+Cgk= inconshreveable.com",
+  "ssh_certificate_authority_id": "sshca_2vqtxmQKQTc5kQ5J9wlJlAEUG2k",
+  "uri": "https://api.ngrok.com/ssh_host_certificates/shcrt_2vqtxqUHiqm5Kq97TLdmOsAgc4g",
+  "valid_after": "2025-04-17T10:11:20Z",
+  "valid_until": "2025-07-16T10:11:20Z"
 }
-```

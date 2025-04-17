@@ -1,7 +1,5 @@
 <!-- Code generated for API Clients. DO NOT EDIT. -->
-
 #### Example Request
-
 ```bash
 curl \
 -X PUT \
@@ -9,5 +7,4 @@ curl \
 -H "Content-Type: application/json" \
 -H "Ngrok-Version: 2" \
 -d '{"add":{"Content-Security-Policy":"script-src 'self'","X-Frame-Options":"DENY"},"enabled":true}' \
-https://api.ngrok.com/edges/https/edghts_2uqkj63kuZtokvzXPycaqU19SkV/routes/edghtsrt_2uqkj5xbDLYBgKQRXRrcf2oMILl/response_headers
-```
+https://api.ngrok.com/edges/https/edghts_2vqty88S6VGYk4QaTexbHpNVjeH/routes/edghtsrt_2vqty8Z4BFPFyox1v8nVa7ivHMq/response_headers

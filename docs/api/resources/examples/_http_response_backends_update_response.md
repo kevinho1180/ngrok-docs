@@ -1,18 +1,15 @@
 <!-- Code generated for API Clients. DO NOT EDIT. -->
-
 #### Example Response
-
 ```json
 {
-	"body": "I'm a teapot",
-	"created_at": "2025-03-26T10:07:00Z",
-	"description": "acme http response",
-	"headers": {
-		"content-type": "text/plain"
-	},
-	"id": "bkdhr_2uqkigIfJOnnpnfP1gh2Qcp8njx",
-	"metadata": "{\"environment\": \"production\"}",
-	"status_code": 418,
-	"uri": "https://api.ngrok.com/backends/http_response/bkdhr_2uqkigIfJOnnpnfP1gh2Qcp8njx"
+  "body": "I'm a teapot",
+  "created_at": "2025-04-17T10:11:20Z",
+  "description": "acme http response",
+  "headers": {
+    "content-type": "text/plain"
+  },
+  "id": "bkdhr_2vqtxm22fCKZ6eBSS9p5yYJZHKo",
+  "metadata": "{\"environment\": \"production\"}",
+  "status_code": 418,
+  "uri": "https://api.ngrok.com/backends/http_response/bkdhr_2vqtxm22fCKZ6eBSS9p5yYJZHKo"
 }
-```
